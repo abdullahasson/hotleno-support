@@ -1,0 +1,185 @@
+{
+    "header": {
+        "logo": "Hotleno",
+        "nav": {
+            "home": "Accueil",
+            "gallery": "Galerie",
+            "pages": "Pages",
+            "blog": "Blog",
+            "reference": "Référence"
+        },
+        "auth": {
+            "login": "Connexion",
+            "signup": "Commencer"
+        }
+    },
+    "homepage": {
+        "hero": {
+            "title": "Terminez votre travail professionnellement avec",
+            "highlight": "Hotleno",
+            "subtitle": "La première plateforme de gestion de projet intégrée qui rassemble tous vos outils en un seul endroit",
+            "emailPlaceholder": "Votre email professionnel",
+            "cta": "Essai gratuit",
+            "loginPrompt": "Vous utilisez déjà Hotleno ?",
+            "loginLink": "Se connecter"
+        },
+        "features": {
+            "sectionTitle": "Découvrez toutes les fonctionnalités de notre plateforme intégrée",
+            "items": [
+                {
+                    "title": "Créer un Projet",
+                    "description": "Ne perdez plus de temps sur les tâches routinières. Laissez l'automatisation s'en charger pour vous. Simplifiez vos processus, réduisez les erreurs et gagnez du temps pour ce qui compte vraiment."
+                },
+                {
+                    "title": "Configuration du Plan",
+                    "description": "Planifier n'a jamais été aussi simple. Utilisez nos outils intelligents pour élaborer des plans précis qui répondent à toutes vos exigences."
+                },
+                {
+                    "title": "Concevoir la Structure",
+                    "description": "Vous n'êtes qu'à un pas de concevoir la structure de votre projet. Utilisez nos outils de conception intelligents pour créer des modèles précis en quelques minutes."
+                },
+                {
+                    "title": "Résultat Final",
+                    "description": "Recevez votre projet final avec précision et efficacité. Nos solutions garantissent une haute qualité et une exécution qui dépasse les attentes."
+                }
+            ],
+            "flexibility": {
+                "tag": "Super Flexibilité",
+                "title": "Vue complète des performances de votre équipe en temps réel",
+                "description": "Ne perdez plus de temps sur les tâches routinières. Laissez l'automatisation s'en charger pour vous. Simplifiez vos processus, réduisez les erreurs et gagnez du temps pour des problèmes plus importants.",
+                "link": "Découvrir plus sur la flexibilité"
+            },
+            "speed": {
+                "tag": "Super Vitesse",
+                "title": "Réponse instantanée de l'application",
+                "description": "Notre plateforme se charge 5 fois plus vite que les outils courants et est facile à configurer.",
+                "testimonial": "Notre équipe est entièrement satisfaite d'utiliser la plateforme, surtout pour sa vitesse de chargement et ses performances exceptionnelles.",
+                "author": "Ahmed Khalid, Chef de Produit",
+                "company": "Advanced Technology Company"
+            },
+            "tracking": {
+                "tag": "Suivi de Projet",
+                "title": "Surveillance en temps réel de l'état du projet",
+                "description": "Gestion intelligente des flux de travail, suivi automatique de la progression et prise de décisions éclairées basée sur des données précises en temps réel."
+            }
+        },
+        "integrations": {
+            "title": "Intégration avec vos outils",
+            "description": "Hotleno se connecte à vos outils, services et flux de travail actuels. Recevez des notifications ou créez des stories en utilisant d'autres outils."
+        },
+        "community": {
+            "tag": "Vous êtes en bonne compagnie",
+            "title": "Rejoignez notre communauté et utilisez nos applications pour grandir plus vite.",
+            "stats": [
+                {
+                    "value": "15",
+                    "unit": "K",
+                    "label": "Projets"
+                },
+                {
+                    "value": "3",
+                    "unit": "K",
+                    "label": "Collaborateurs"
+                },
+                {
+                    "value": "123",
+                    "unit": "",
+                    "label": "Bureaux"
+                }
+            ],
+            "testimonials": [
+                {
+                    "text": "Excellente expérience de travail avec Hotleno. Une équipe humble et experte, avec un service excellent et formidable.",
+                    "author": "Rina Singleton",
+                    "role": "Ancienne Assistante chez Jamuna Group"
+                },
+                {
+                    "text": "Excellente expérience de travail avec Hotleno. Une équipe humble et experte, avec un service excellent et formidable.",
+                    "author": "Rashid K.",
+                    "role": "Designer UI chez Baber Inc."
+                },
+                {
+                    "text": "Excellente expérience de travail avec Hotleno. Une équipe humble et experte, avec un service excellent et formidable.",
+                    "author": "Zubair Hassan",
+                    "role": "Développeur Frontend chez Hilloship"
+                }
+            ]
+        },
+        "cta": {
+            "tag": "Commencez votre essai gratuit.",
+            "title": "Nouveau ici ? Commencez votre essai gratuit maintenant.",
+            "emailPlaceholder": "Email",
+            "button": "Commencer l'essai",
+            "loginPrompt": "Déjà membre ?",
+            "loginLink": "Connexion"
+        },
+        "faq": {
+            "title": "Trouvez vos réponses",
+            "subtitle": "Vous avez une question ? Recherchez ici.",
+            "button": "Voir la FAQ",
+            "questions": [
+                {
+                    "question": "Comment fonctionne le programme partenaires ?",
+                    "answer": "Nous proposons un programme partenaires avancé qui vous permet de gagner des commissions lorsque vous promouvez nos services. Après inscription, vous obtiendrez un lien de parrainage unique à partager avec votre audience."
+                },
+                {
+                    "question": "Comment puis-je créer un tableau de bord client ?",
+                    "answer": "Vous pouvez créer un tableau de bord client personnalisé en accédant aux paramètres de votre compte, puis en sélectionnant \"Tableau de bord\" et en le personnalisant selon vos besoins."
+                },
+                {
+                    "question": "Comment puis-je supprimer mon compte ?",
+                    "answer": "Pour supprimer votre compte, allez dans les paramètres du compte, choisissez \"Gestion du compte\", puis cliquez sur \"Supprimer le compte\". Toutes vos données seront définitivement supprimées sous 30 jours."
+                },
+                {
+                    "question": "Comment puis-je inviter des personnes via un lien de parrainage ?",
+                    "answer": "Vous pouvez partager votre lien de parrainage via la section \"Parrainage\" de votre compte. Chaque personne qui s'inscrit via votre lien bénéficie d'une réduction spéciale et vous gagnez une commission."
+                },
+                {
+                    "question": "L'application est-elle disponible pour iPhone ?",
+                    "answer": "Oui, notre application est disponible au téléchargement sur l'Apple Store pour les appareils iOS. Vous pouvez rechercher le nom de l'application dans l'App Store et l'installer sur votre appareil."
+                }
+            ]
+        },
+        "contactBanner": {
+            "title": "Vous n'avez pas trouvé de réponse ? Contactez-nous pour toute demande.",
+            "button": "Nous Contacter"
+        }
+    },
+    "footer": {
+        "services": {
+            "title": "Nos Services",
+            "items": [
+                "Conception de Site Web",
+                "Développement Web",
+                "Applications WordPress",
+                "Marketing Digital",
+                "Gestion de Contenu"
+            ]
+        },
+        "company": {
+            "title": "Entreprise",
+            "items": [
+                "À Propos",
+                "Nos Réalisations",
+                "Notre Équipe",
+                "Forfaits & Tarifs",
+                "Actualités de l'Entreprise"
+            ]
+        },
+        "contact": {
+            "title": "Coordonnées",
+            "items": [
+                "bh532997@gmail.com",
+                "+96611223344"
+            ]
+        },
+        "legal": {
+            "items": [
+                "Confidentialité",
+                "Sécurité",
+                "Conditions"
+            ],
+            "copyright": "Tous droits réservés © 2023 Hotleno"
+        }
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "header": {
+        "logo": "Hotleno",
+        "nav": {
+            "home": "Ana Sayfa",
+            "gallery": "Galeri",
+            "pages": "Sayfalar",
+            "blog": "Blog",
+            "reference": "Referans"
+        },
+        "auth": {
+            "login": "Giriş Yap",
+            "signup": "Hemen Başla"
+        }
+    },
+    "homepage": {
+        "hero": {
+            "title": "İşinizi profesyonelce tamamlayın",
+            "highlight": "Hotleno",
+            "subtitle": "Tüm araçlarınızı tek bir yerde toplayan ilk entegre proje yönetimi platformu",
+            "emailPlaceholder": "İş e-posta adresiniz",
+            "cta": "Ücretsiz Dene",
+            "loginPrompt": "Zaten Hotleno kullanıyor musunuz?",
+            "loginLink": "Giriş yap"
+        },
+        "features": {
+            "sectionTitle": "Entegre platformumuzun tüm özelliklerini keşfedin",
+            "items": [
+                {
+                    "title": "Proje Oluştur",
+                    "description": "Rutin işlerle vakit kaybetmeyin. Otomasyonun bu işleri sizin yerinize halletmesine izin verin. Süreçlerinizi basitleştirin, hataları azaltın ve asıl önemli olan işlere zaman ayırın."
+                },
+                {
+                    "title": "Plan Kurulumu",
+                    "description": "Planlama hiç bu kadar kolay olmamıştı. Tüm gereksinimlerinizi karşılayan hassas planlar oluşturmak için akıllı araçlarımızı kullanın."
+                },
+                {
+                    "title": "Tasarım Yapısı",
+                    "description": "Proje yapınızı tasarlamak için sadece bir adım uzaktasınız. Dakikalar içinde doğru modeller oluşturmak için akıllı tasarım araçlarımızı kullanın."
+                },
+                {
+                    "title": "Nihai Sonuç",
+                    "description": "Nihai projenizi hassasiyet ve verimlilikle alın. Çözümlerimiz, yüksek kalite ve beklentileri aşan bir icraat sunar."
+                }
+            ],
+            "flexibility": {
+                "tag": "Süper Esneklik",
+                "title": "Ekibinizin performansını gerçek zamanlı olarak kapsamlı bir şekilde görün",
+                "description": "Rutin işlerle vakit kaybetmeyin. Otomasyonun bu işleri sizin yerinize halletmesine izin verin. Süreçlerinizi basitleştirin, hataları azaltın ve daha önemli sorunlar için zaman kazanın.",
+                "link": "Esneklik hakkında daha fazla bilgi edinin"
+            },
+            "speed": {
+                "tag": "Süper Hız",
+                "title": "Anında uygulama tepkisi",
+                "description": "Platformumuz, yaygın araçlardan 5 kat daha hızlı yüklenir ve yapılandırması kolaydır.",
+                "testimonial": "Ekibimiz, platformu kullanırken özellikle yükleme hızı ve olağanüstü performansı nedeniyle tamamen memnun.",
+                "author": "Ahmed Khalid, Ürün Yöneticisi",
+                "company": "Advanced Technology Company"
+            },
+            "tracking": {
+                "tag": "Proje Takibi",
+                "title": "Proje durumunun gerçek zamanlı izlenmesi",
+                "description": "Akıllı iş akışı yönetimi, otomatik ilerleme takibi ve doğru gerçek zamanlı verilere dayalı olarak bilinçli kararlar alma."
+            }
+        },
+        "integrations": {
+            "title": "Araçlarınızla Entegrasyon",
+            "description": "Hotleno, mevcut araçlarınız, hizmetleriniz ve iş akışınızla bağlantı kurar. Diğer araçları kullanarak bildirimler alın veya hikayeler oluşturun."
+        },
+        "community": {
+            "tag": "İyi bir şirkettesiniz",
+            "title": "Topluluğumuza katılın ve daha hızlı büyümek için uygulamalarımızı kullanın.",
+            "stats": [
+                {
+                    "value": "15",
+                    "unit": "B",
+                    "label": "Proje"
+                },
+                {
+                    "value": "3",
+                    "unit": "B",
+                    "label": "Çalışan"
+                },
+                {
+                    "value": "123",
+                    "unit": "",
+                    "label": "Ofis"
+                }
+            ],
+            "testimonials": [
+                {
+                    "text": "Hotleno ile çalışmak harika bir deneyimdi. Mütevazı ve uzman bir ekip, mükemmel ve harika bir hizmet.",
+                    "author": "Rina Singleton",
+                    "role": "Jamuna Group'ta Eski Asistan"
+                },
+                {
+                    "text": "Hotleno ile çalışmak harika bir deneyimdi. Mütevazı ve uzman bir ekip, mükemmel ve harika bir hizmet.",
+                    "author": "Rashid K.",
+                    "role": "Baber Inc.'de UI Tasarımcısı"
+                },
+                {
+                    "text": "Hotleno ile çalışmak harika bir deneyimdi. Mütevazı ve uzman bir ekip, mükemmel ve harika bir hizmet.",
+                    "author": "Zubair Hassan",
+                    "role": "Hilloship'te Frontend Geliştirici"
+                }
+            ]
+        },
+        "cta": {
+            "tag": "Ücretsiz denemenize başlayın.",
+            "title": "Yeni misiniz? Hemen ücretsiz denemenize başlayın.",
+            "emailPlaceholder": "E-posta",
+            "button": "Denemeyi Başlat",
+            "loginPrompt": "Zaten üye misiniz?",
+            "loginLink": "Giriş Yap"
+        },
+        "faq": {
+            "title": "Cevaplarınızı bulun",
+            "subtitle": "Sorunuz mu var? Burada arayın.",
+            "button": "SSS'e Git",
+            "questions": [
+                {
+                    "question": "İş ortağı programı nasıl çalışır?",
+                    "answer": "Hizmetlerimizi tanıttığınızda komisyon kazanmanızı sağlayan gelişmiş bir iş ortağı programı sunuyoruz. Kayıt olduktan sonra, kitlenizle paylaşmak üzere benzersiz bir yönlendirme bağlantısı alacaksınız."
+                },
+                {
+                    "question": "Müşteri panelimi nasıl oluşturabilirim?",
+                    "answer": "Hesap ayarlarınıza gidip, ardından \"Panel\"i seçerek ve ihtiyaçlarınıza göre özelleştirerek özelleştirilmiş bir müşteri paneli oluşturabilirsiniz."
+                },
+                {
+                    "question": "Hesabımı nasıl silebilirim?",
+                    "answer": "Hesabınızı silmek için hesap ayarlarına gidin, \"Hesap Yönetimi\"ni seçin, ardından \"Hesabı Sil\"i tıklayın. Tüm verileriniz 30 gün içinde kalıcı olarak silinecektir."
+                },
+                {
+                    "question": "Yönlendirme bağlantısı ile nasıl kişi davet edebilirim?",
+                    "answer": "Yönlendirme bağlantınızı hesabınızdaki \"Yönlendirmeler\" bölümü üzerinden paylaşabilirsiniz. Bağlantınız üzerinden kaydolan herkes özel bir indirim kazanır ve siz de bir komisyon kazanırsınız."
+                },
+                {
+                    "question": "Uygulama iPhone için mevcut mu?",
+                    "answer": "Evet, uygulamamız iOS cihazları için Apple Store'da indirilebilir durumdadır. Uygulama mağazasında uygulama adını arayıp cihazınıza kurabilirsiniz."
+                }
+            ]
+        },
+        "contactBanner": {
+            "title": "Cevabını bulamadın mı? Her türlü soru için bizimle iletişime geçin.",
+            "button": "Bize Ulaşın"
+        }
+    },
+    "footer": {
+        "services": {
+            "title": "Hizmetlerimiz",
+            "items": [
+                "Web Sitesi Tasarımı",
+                "Web Geliştirme",
+                "WordPress Uygulamaları",
+                "Dijital Pazarlama",
+                "İçerik Yönetimi"
+            ]
+        },
+        "company": {
+            "title": "Şirket",
+            "items": [
+                "Hakkımızda",
+                "Çalışmalarımız",
+                "Ekibimiz",
+                "Paketler & Fiyatlandırma",
+                "Şirket Haberleri"
+            ]
+        },
+        "contact": {
+            "title": "İletişim Bilgileri",
+            "items": [
+                "bh532997@gmail.com",
+                "+96611223344"
+            ]
+        },
+        "legal": {
+            "items": [
+                "Gizlilik",
+                "Güvenlik",
+                "Şartlar"
+            ],
+            "copyright": "Tüm hakları saklıdır © 2023 Hotleno"
+        }
+    }
+}

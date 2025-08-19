@@ -1,0 +1,185 @@
+{
+    "header": {
+        "logo": "Hotleno",
+        "nav": {
+            "home": "Home",
+            "gallery": "Gallery",
+            "pages": "Pages",
+            "blog": "Blog",
+            "reference": "Reference"
+        },
+        "auth": {
+            "login": "Login",
+            "signup": "Get Started"
+        }
+    },
+    "homepage": {
+        "hero": {
+            "title": "Complete your work professionally with",
+            "highlight": "Hotleno",
+            "subtitle": "The first integrated project management platform that brings all your tools in one place",
+            "emailPlaceholder": "Your work email",
+            "cta": "Try for free",
+            "loginPrompt": "Already using Hotleno?",
+            "loginLink": "Sign in"
+        },
+        "features": {
+            "sectionTitle": "Discover all the features of our integrated platform",
+            "items": [
+                {
+                    "title": "Create Project",
+                    "description": "Don't waste time on routine tasks. Let automation handle them for you. Simplify your processes, reduce errors, and save time for what matters most."
+                },
+                {
+                    "title": "Plan Setup",
+                    "description": "Planning has never been easier. Use our smart tools to build precise plans that meet all your requirements."
+                },
+                {
+                    "title": "Design Structure",
+                    "description": "You're one step away from designing your project structure. Use our smart design tools to create accurate models in minutes."
+                },
+                {
+                    "title": "Final Result",
+                    "description": "Receive your final project with precision and efficiency. Our solutions ensure high quality and execution that exceeds expectations."
+                }
+            ],
+            "flexibility": {
+                "tag": "Super Flexibility",
+                "title": "Comprehensive view of your team's performance in real-time",
+                "description": "Don't waste time on routine tasks. Let automation handle them for you. Simplify your processes, reduce errors, and save time for more important problems.",
+                "link": "Discover more about flexibility"
+            },
+            "speed": {
+                "tag": "Super Speed",
+                "title": "Instant application response",
+                "description": "Our platform loads 5x faster than common tools and is easy to configure.",
+                "testimonial": "Our team is completely satisfied when using the platform, especially with its loading speed and exceptional performance.",
+                "author": "Ahmed Khalid, Product Manager",
+                "company": "Advanced Technology Company"
+            },
+            "tracking": {
+                "tag": "Project Tracking",
+                "title": "Real-time project status monitoring",
+                "description": "Smart workflow management, automatic progress tracking, and making informed decisions based on accurate real-time data."
+            }
+        },
+        "integrations": {
+            "title": "Integration with your tools",
+            "description": "Hotleno connects with your tools, services, and current workflow. Get notifications or create stories using other tools."
+        },
+        "community": {
+            "tag": "You're in good company",
+            "title": "Join our community and use our applications to grow faster.",
+            "stats": [
+                {
+                    "value": "15",
+                    "unit": "K",
+                    "label": "Projects"
+                },
+                {
+                    "value": "3",
+                    "unit": "K",
+                    "label": "Workers"
+                },
+                {
+                    "value": "123",
+                    "unit": "",
+                    "label": "Offices"
+                }
+            ],
+            "testimonials": [
+                {
+                    "text": "Great experience working with Hotleno. A humble and expert team, with excellent and wonderful service.",
+                    "author": "Rina Singleton",
+                    "role": "Former Assistant at Jamuna Group"
+                },
+                {
+                    "text": "Great experience working with Hotleno. A humble and expert team, with excellent and wonderful service.",
+                    "author": "Rashid K.",
+                    "role": "UI Designer at Baber Inc."
+                },
+                {
+                    "text": "Great experience working with Hotleno. A humble and expert team, with excellent and wonderful service.",
+                    "author": "Zubair Hassan",
+                    "role": "Frontend Developer at Hilloship"
+                }
+            ]
+        },
+        "cta": {
+            "tag": "Start your free trial.",
+            "title": "New here? Start your free trial now.",
+            "emailPlaceholder": "Email",
+            "button": "Start Trial",
+            "loginPrompt": "Already a member?",
+            "loginLink": "Login"
+        },
+        "faq": {
+            "title": "Find your answers",
+            "subtitle": "Have any questions? Search here.",
+            "button": "Go to FAQs",
+            "questions": [
+                {
+                    "question": "How does the partner program work?",
+                    "answer": "We offer an advanced partner program that allows you to earn commissions when promoting our services. After registration, you'll get a unique referral link to share with your audience."
+                },
+                {
+                    "question": "How can I create a customer dashboard?",
+                    "answer": "You can create a customized customer dashboard by going to your account settings, then selecting \"Dashboard\" and customizing it according to your needs."
+                },
+                {
+                    "question": "How can I delete my account?",
+                    "answer": "To delete your account, go to account settings, choose \"Account Management\", then click on \"Delete Account\". All your data will be permanently deleted within 30 days."
+                },
+                {
+                    "question": "How can I invite people via referral link?",
+                    "answer": "You can share your referral link through the \"Referrals\" section in your account. Everyone who registers through your link gets a special discount and you earn a commission."
+                },
+                {
+                    "question": "Is the app available for iPhone?",
+                    "answer": "Yes, our app is available for download on the Apple Store for iOS devices. You can search for the app name in the App Store and install it on your device."
+                }
+            ]
+        },
+        "contactBanner": {
+            "title": "Didn't find the answer? Contact us for any inquiries.",
+            "button": "Contact Us"
+        }
+    },
+    "footer": {
+        "services": {
+            "title": "Our Services",
+            "items": [
+                "Website Design",
+                "Web Development",
+                "WordPress Applications",
+                "Digital Marketing",
+                "Content Management"
+            ]
+        },
+        "company": {
+            "title": "Company",
+            "items": [
+                "About Us",
+                "Our Work",
+                "Our Team",
+                "Packages & Pricing",
+                "Company News"
+            ]
+        },
+        "contact": {
+            "title": "Contact Information",
+            "items": [
+                "bh532997@gmail.com",
+                "+96611223344"
+            ]
+        },
+        "legal": {
+            "items": [
+                "Privacy",
+                "Security",
+                "Terms"
+            ],
+            "copyright": "All rights reserved © 2023 Hotleno"
+        }
+    }
+}
